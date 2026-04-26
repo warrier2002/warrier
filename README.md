@@ -1,51 +1,52 @@
 # 👋 Hi, I'm Harshit Sharma
-### 🚀 Site Reliability Engineer | Database Reliability | Cloud Infrastructure
+### 🚀 Site Reliability Engineer | Database Reliability | Performance Specialist
 
-I am a **Site Reliability practitioner with 2+ years of experience** managing high-availability cloud platforms. I specialize in troubleshooting across the **full technology stack**—from application layers and **REST APIs** to **PostgreSQL internals** and cloud infrastructure.
-
-**Proven Track Record:** Successfully drove a **40% reduction in Mean Time to Recovery (MTTR)** through automated runbooks and performance engineering.
+I am a **Site Reliability practitioner with 2+ years of experience** managing high-availability cloud platforms. I specialize in full-stack troubleshooting, from **Linux internals** and **PostgreSQL performance** to **REST API debugging**.
 
 ---
 
-### 🛠 Core Technical Expertise
+### 🧠 Core Technical Expertise
 
-#### ☁️ Cloud & Orchestration
-![AWS](https://img.shields.io/badge/AWS-%23232F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white) 
-![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) 
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
-![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
+#### 🐧 Server & Linux Administration
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
+![System Monitoring](https://img.shields.io/badge/System-Monitoring-brightgreen?style=for-the-badge) 
+![Troubleshooting](https://img.shields.io/badge/Production-Troubleshooting-red?style=for-the-badge) 
+![Optimization](https://img.shields.io/badge/Performance-Optimization-blueviolet?style=for-the-badge)
+- Linux Administration • System Monitoring • Production Troubleshooting • Performance Optimisation.
 
-#### 🗄️ Database Reliability (DBRE)
+#### 🗄️ Databases & Data Analysis
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) 
-![TimescaleDB](https://img.shields.io/badge/TimescaleDB-F15A24?style=for-the-badge&logo=timescaledb&logoColor=white) 
-![SQL](https://img.shields.io/badge/SQL-Expert-blue?style=for-the-badge)
-- **Deep Skills:** Query Optimization, Indexing Strategies, Execution Plans, PL/pgSQL Procedures.
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) 
+![SQL Optimization](https://img.shields.io/badge/SQL-Optimization-blue?style=for-the-badge) 
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
+- PostgreSQL • MySQL • SQL Query Optimisation • Performance Analysis • Data Analysis for Report Generation.
 
-#### ⚙️ Automation & Monitoring
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) 
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white) 
-![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
-- **Innovative Ops:** Automated Runbooks, AI Prompt Engineering for Support Workflows.
+#### 🌐 APIs & Cloud Support
+![REST API](https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge&logo=fastapi) 
+![Cloud Support](https://img.shields.io/badge/Cloud-App_Support-brightgreen?style=for-the-badge) 
+![API Debugging](https://img.shields.io/badge/API-Debugging-orange?style=for-the-badge) 
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+- Cloud Application Support • REST APIs • GitHub • API Debugging.
+
+#### 🛠️ Tools & Monitoring
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=Wireshark&logoColor=white) 
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white) 
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white) 
+![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=Salesforce&logoColor=white) 
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+- Wireshark • Postman • Tableau • Monitoring/Logging Tools • Ticketing Systems (Jira, Salesforce) • VCS (GIT).
 
 ---
 
 ### 📦 Featured Projects
 
 #### 🛡️ [Sentinel Admin Panel](https://github.com/warrier2002/admin_page)
-*Secure administrative dashboard for infrastructure and user management.*
-- **Impact:** Built with a focus on `@RBAC` and `@JWT` security, optimizing build pipelines for faster CI/CD cycles.
-- **SRE Focus:** High-availability application logic and secure API integration.
+*A secure dashboard focused on infrastructure oversight and role-based access.*
+- **Impact:** Implemented `@RBAC` and `@JWT` for secure data management.
 
-#### 🗄️ [Database Performance Engineering](https://github.com/warrier2002/warrier)
-*Optimizing PostgreSQL and TimescaleDB for high-throughput environments.*
-- **Focus:** Implementing `@IndexingStrategies` and `@ExecutionPlan` analysis to resolve database bottlenecks.
-- **Tech Stack:** @PostgreSQL, @PLpgSQL, @Python.
-
-#### 📊 [System Observability Dashboard](https://github.com/warrier2002/warrier)
-*Real-time monitoring and alerting for production dialer systems.*
-- **Focus:** Leveraging `@Prometheus` and `@Grafana` to monitor SLOs and proactive incident response.
+#### 🗄️ [Database Reliability Engineering](https://github.com/warrier2002/warrier)
+*Focused on SQL query optimization and performance analysis.*
+- **Focus:** Leveraging `@ExecutionPlans` and `@PostgreSQL` internals to drive system speed.
 
 ---
 
@@ -58,10 +59,10 @@ I am a **Site Reliability practitioner with 2+ years of experience** managing hi
 
 ---
 
-### 🚀 Professional Highlights
-- **SRE @ PrepLadder:** Managing incident response for high-availability systems with a focus on `@PerformanceEngineering`.
-- **Ex-Exotel:** Reduced MTTR by **40%** through automation and deep network diagnostics (`@Wireshark`).
-- **Education:** Pursuing **MCA** at Chandigarh University (Online) | **B.Sc. CS** (HPU).
+### 🚀 Quick Highlights
+- **SRE @ PrepLadder:** Driving performance diagnostics and maintaining SLOs for high-availability systems.
+- **Proven Impact:** Reduced MTTR by **40%** at Exotel through automated workflows.
+- **Education:** MCA Candidate (Chandigarh University) | B.Sc. Computer Science.
 
 ---
 
@@ -72,5 +73,5 @@ I am a **Site Reliability practitioner with 2+ years of experience** managing hi
 
 ---
 <p align="center">
-  <i>"Optimizing for reliability, one execution plan at a time."</i>
+  <i>"Reliability is a feature, and performance is a priority."</i>
 </p>
