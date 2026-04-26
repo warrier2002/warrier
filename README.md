@@ -4,7 +4,7 @@
 
 ### **Bridging Infrastructure Automation, System Reliability, and Enterprise Support**
 
-I architect reliability across the full technological lifecycle. Whether it’s automating cloud delivery pipelines (**DevOps**), maintaining 99.9% production availability (**SRE**), or deep-diving into complex API/Network failures for enterprise clients (**Product Support**), I deliver measurable results.
+I architect reliability across the full technological lifecycle. Whether it’s automating cloud delivery pipelines, maintaining 99.9% production availability, or deep-diving into complex API/Network failures for enterprise clients, I deliver measurable results.
 
 ---
 
@@ -20,7 +20,7 @@ I architect reliability across the full technological lifecycle. Whether it’s 
 
 | Expertise Layer | Core Technologies |
 | :--- | :--- |
-| **🌍 Cloud & DevOps** | **AWS (EC2/S3/IAM)** • **Terraform** • Jenkins • GitHub Actions • GitOps |
+| **🌍 Cloud & DevOps** | **AWS (EC2/S3/IAM)** • **Terraform** • Jenkins • GitHub Actions |
 | **🛡️ SRE & Observability** | **Prometheus • Grafana** • Cockpit • Wireshark • Incident Response • SLO Triage |
 | **🗄️ Database Reliability** | **PostgreSQL** • CTE & Complex Queries • SQL Query Optimization • Execution Plans |
 | **🐳 Orchestration** | **Kubernetes • Docker** • Microservices Stability • Containerized Deployment |
@@ -72,18 +72,3 @@ I architect reliability across the full technological lifecycle. Whether it’s 
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:harshitkumr9@gmail.com)
 
 ---
-
-### 🧱 Continuous Work & Proof
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=warrier2002&theme=radical" alt="Trophies" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=warrier2002&show_icons=true&theme=radical&count_private=true" alt="Stats" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=warrier2002&layout=compact&theme=radical" alt="Langs" height="180px"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=warrier2002&theme=radical&area=true" alt="Activity Graph" />
-</p>
