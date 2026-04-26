@@ -1,48 +1,51 @@
 # 👋 Hi, I'm Harshit Sharma
-### 🚀 Site Reliability Engineer | DevOps Enthusiast | Cloud Architect
+### 🚀 Site Reliability Engineer | Database Reliability | Cloud Infrastructure
 
-I am an **SRE with 2+ years of experience** specializing in managing high-availability systems, containerized environments, and production infrastructure. My focus is on reducing **MTTR**, improving **System Reliability**, and automating everything move-able using **Infrastructure as Code (IaC)**.
+I am a **Site Reliability practitioner with 2+ years of experience** managing high-availability cloud platforms. I specialize in troubleshooting across the **full technology stack**—from application layers and **REST APIs** to **PostgreSQL internals** and cloud infrastructure.
+
+**Proven Track Record:** Successfully drove a **40% reduction in Mean Time to Recovery (MTTR)** through automated runbooks and performance engineering.
 
 ---
 
-### 🛠 Tech Stack & Tools
+### 🛠 Core Technical Expertise
 
+#### ☁️ Cloud & Orchestration
 ![AWS](https://img.shields.io/badge/AWS-%23232F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white) 
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
-![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) 
-![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)
+![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
 
+#### 🗄️ Database Reliability (DBRE)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) 
+![TimescaleDB](https://img.shields.io/badge/TimescaleDB-F15A24?style=for-the-badge&logo=timescaledb&logoColor=white) 
+![SQL](https://img.shields.io/badge/SQL-Expert-blue?style=for-the-badge)
+- **Deep Skills:** Query Optimization, Indexing Strategies, Execution Plans, PL/pgSQL Procedures.
+
+#### ⚙️ Automation & Monitoring
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-
+![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) 
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white) 
-![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
-![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
+- **Innovative Ops:** Automated Runbooks, AI Prompt Engineering for Support Workflows.
 
 ---
 
 ### 📦 Featured Projects
 
 #### 🛡️ [Sentinel Admin Panel](https://github.com/warrier2002/admin_page)
-*A secure, high-performance administrative dashboard for infrastructure and user management.*
-- **Impact:** Implemented **RBAC** and **JWT Authentication** to secure sensitive administrative endpoints.
-- **Tech Stack:** @React, @Vite, @ReactRouter, @TailwindCSS.
-- **DevOps Focus:** Optimized build pipelines for 30% faster deployment cycles using Vite.
+*Secure administrative dashboard for infrastructure and user management.*
+- **Impact:** Built with a focus on `@RBAC` and `@JWT` security, optimizing build pipelines for faster CI/CD cycles.
+- **SRE Focus:** High-availability application logic and secure API integration.
 
-#### 🧠 [Predictive Churn Analysis Pipeline](https://github.com/warrier2002/ANN-classification-project)
-*End-to-end Machine Learning pipeline for real-time customer behavior prediction.*
-- **Impact:** Developed a scalable ANN model for customer retention, achieving high accuracy on production datasets.
-- **Tech Stack:** @Python, @TensorFlow, @Scikit-Learn, @Streamlit.
-- **DevOps Focus:** Containerized the application for consistent behavior across Development and Staging environments.
+#### 🗄️ [Database Performance Engineering](https://github.com/warrier2002/warrier)
+*Optimizing PostgreSQL and TimescaleDB for high-throughput environments.*
+- **Focus:** Implementing `@IndexingStrategies` and `@ExecutionPlan` analysis to resolve database bottlenecks.
+- **Tech Stack:** @PostgreSQL, @PLpgSQL, @Python.
 
-#### 🏗️ [Infrastructure-as-Code (IaC) Lab](https://github.com/warrier2002/warrier) *In-Progress*
-*Automating multi-region AWS infrastructure scaling.*
-- **Focus:** Deploying VPCs, EC2 clusters, and RDS instances via @Terraform.
-- **Tools:** @AWS, @HashiCorpTerraform, @GitHubActions.
+#### 📊 [System Observability Dashboard](https://github.com/warrier2002/warrier)
+*Real-time monitoring and alerting for production dialer systems.*
+- **Focus:** Leveraging `@Prometheus` and `@Grafana` to monitor SLOs and proactive incident response.
 
 ---
 
@@ -53,17 +56,12 @@ I am an **SRE with 2+ years of experience** specializing in managing high-availa
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=warrier2002&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="180px"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=warrier2002&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p>
-
 ---
 
-### 🚀 About Me
-- 🔭 Currently working as an **SRE** at **PrepLadder**, ensuring 99.9% availability for production systems.
-- 🌱 Diving deeper into **Service Mesh (@Istio)** and **ArgoCD** for GitOps mastery.
-- 💬 Ask me about **Incident Management**, **Linux Internals**, or **Cloud Networking**.
-- ⚡ Fun fact: I enjoy troubleshooting complex network packets with **Wireshark** more than I probably should.
+### 🚀 Professional Highlights
+- **SRE @ PrepLadder:** Managing incident response for high-availability systems with a focus on `@PerformanceEngineering`.
+- **Ex-Exotel:** Reduced MTTR by **40%** through automation and deep network diagnostics (`@Wireshark`).
+- **Education:** Pursuing **MCA** at Chandigarh University (Online) | **B.Sc. CS** (HPU).
 
 ---
 
@@ -74,5 +72,5 @@ I am an **SRE with 2+ years of experience** specializing in managing high-availa
 
 ---
 <p align="center">
-  <i>"Reliability is not an option, it's a foundation."</i>
+  <i>"Optimizing for reliability, one execution plan at a time."</i>
 </p>
