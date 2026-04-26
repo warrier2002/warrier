@@ -57,7 +57,7 @@ I architect reliability across the full technological lifecycle. Whether it’s 
 ### 🌐 Let's Build Something Better
 - 🔭 **Current Goal:** Mastering GitOps Workflows and Istio Service Mesh.
 - 🎓 **Education:** MCA Candidate (Chandigarh University) | B.Sc. Computer Science.
-- 💬 **Expertise:** Ask me about **MTTR Speed**, **SQL Performance**, or **Full-Stack Root Cause Analysis**.
+- 💬 **Ask me about:** **MTTR Speed**, **SQL Performance**, or **Full-Stack Root Cause Analysis**.
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/harshit-sharma-12-/) 
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:harshitkumr9@gmail.com)
@@ -67,14 +67,14 @@ I architect reliability across the full technological lifecycle. Whether it’s 
 ### 🧱 Continuous Work & Proof
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=warrier2002&theme=radical&no-bg=true&no-frame=true" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=warrier2002&theme=radical" alt="Trophies" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=warrier2002&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Stats" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=warrier2002&layout=compact&theme=radical&hide_border=true" alt="Langs" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=warrier2002&show_icons=true&theme=radical&count_private=true" alt="Stats" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=warrier2002&layout=compact&theme=radical" alt="Langs" height="180px"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=warrier2002&theme=radical&hide_border=true&area=true" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=warrier2002&theme=radical&area=true" alt="Activity Graph" />
 </p>
