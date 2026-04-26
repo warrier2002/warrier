@@ -1,7 +1,23 @@
 # 👋 Hi, I'm Harshit Sharma
-### 🚀 Site Reliability Engineer | Database Reliability | Infrastructure Architect
+### 🚀 SRE | DevOps | Database & Product Support Engineer
 
-I am a **Site Reliability practitioner with 2+ years of experience** managing high-availability cloud platforms. I specialize in full-stack troubleshooting, from **Linux internals** and **PostgreSQL performance** to **Cloud Infrastructure Automation**.
+I am a **Multi-Disciplinary Engineer with 2+ years of experience** bridging the gap between high-availability infrastructure and enterprise-grade product support. I specialize in troubleshooting across the **full technology stack**—from complex **REST API integrations** to **database internals** and **cloud automation**.
+
+---
+
+### 💼 Professional Experience
+
+#### 🚀 **SRE / Operation Support Engineer** | PrepLadder
+*Oct 2025 — Present*
+- **Database Reliability:** Optimized PostgreSQL queries for real-time dashboards, significantly enhancing performance metrics.
+- **Incident Response:** Managing end-to-end incident triage for high-availability dialer systems, maintaining strict **SLOs**.
+- **Performance Engineering:** Diagnosing complex network and database bottlenecks in production environments.
+
+#### ⚙️ **Product Support Engineer** | Exotel
+*Mar 2024 — Oct 2025*
+- **Operational Efficiency:** Drove a **40% reduction in MTTR** through automated runbooks and optimized triage workflows.
+- **Technical Triage:** Troubleshot complex issues across **REST APIs**, SIP protocols, and cloud communication infrastructure.
+- **Advanced Diagnostics:** Performed deep-dive network analysis using **Wireshark** to resolve latency and packet loss for enterprise clients.
 
 ---
 
@@ -14,39 +30,34 @@ I am a **Site Reliability practitioner with 2+ years of experience** managing hi
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 - Linux Systems Administration (RHEL/Rocky/Ubuntu) • Shell & Python Scripting • Performance Tuning • Production Troubleshooting.
 
-#### 🗄️ Databases & Data Analysis
+#### 🗄️ Database & Support Engineering
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) 
-![SQL Optimization](https://img.shields.io/badge/SQL-Optimization-blue?style=for-the-badge) 
+![API Debugging](https://img.shields.io/badge/API-Debugging-orange?style=for-the-badge) 
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
-- PostgreSQL • SQL Query Optimisation • Performance Analysis • Data Analysis for Report Generation.
+- Database Support Engineering • SQL Optimization • Performance Analysis • REST API Debugging • Cloud Application Support.
 
-#### ☁️ Cloud & APIs
+#### ☁️ DevOps & Cloud
 ![AWS](https://img.shields.io/badge/AWS-%23232F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) 
 ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) 
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white) 
 ![Jenkins](https://img.shields.io/badge/jenkins-%23D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white)
-- AWS (EC2, S3, IAM, Networking) • Infrastructure as Code (Terraform) • CI/CD (GitHub Actions, Jenkins) • REST APIs • Git.
+- Infrastructure as Code (Terraform) • CI/CD (GitHub Actions, Jenkins) • Containerization (Docker) • Cloud Security (IAM).
 
-#### 🐳 Containerization & Orchestration
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
-![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-- Docker Swarm/Compose • Kubernetes Cluster Management • Application Containerization.
-
-#### 🛠️ Tools & Monitoring
+#### 🛠️ Tools & Observability
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=Wireshark&logoColor=white) 
 ![Cockpit](https://img.shields.io/badge/Cockpit-Monitoring-blue?style=for-the-badge&logo=cockpit&logoColor=white) 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white) 
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
-- Cockpit Monitoring • Wireshark • Log analysis and system monitoring • Postman • Jira • Salesforce • Monitoring/Logging Tools.
+- Log Analysis • Wireshark Diagnostics • Postman API Testing • Ticketing Systems (Jira, Salesforce).
 
 ---
 
 ### 📦 Featured Projects
 
 #### 🛡️ [Sentinel Admin Panel](https://github.com/warrier2002/admin_page)
-*A secure dashboard focused on infrastructure oversight and role-based access.*
-- **SRE Focus:** High-availability application logic and secure API integration.
+*A secure dashboard for infrastructure oversight and role-based access.*
+- **Focus:** High-availability application logic and secure API integration.
 
 #### 🗄️ [Database Reliability Engineering](https://github.com/warrier2002/warrier)
 *Focused on SQL query optimization and performance analysis.*
@@ -54,7 +65,7 @@ I am a **Site Reliability practitioner with 2+ years of experience** managing hi
 
 ---
 
-### 📊 GitHub Ecosystem & Contributions
+### 📊 GitHub Ecosystem
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=warrier2002&theme=radical&no-bg=true&no-frame=true" alt="Harshit's Trophies" />
@@ -65,20 +76,12 @@ I am a **Site Reliability practitioner with 2+ years of experience** managing hi
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=warrier2002&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="180px"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=warrier2002&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=warrier2002&theme=radical&hide_border=true&area=true" alt="Activity Graph" />
-</p>
-
 ---
 
-### 🚀 Professional Highlights
-- **SRE @ PrepLadder:** Maintaining SLOs for high-availability systems with a focus on `@PerformanceEngineering`.
-- **Ex-Exotel:** Reduced MTTR by **40%** through automation and deep diagnostics.
-- **Education:** MCA Candidate (Chandigarh University) | B.Sc. Computer Science.
+### 🚀 Quick Stats
+- 🔭 **Current Goal:** Mastering GitOps and Service Mesh architectures.
+- 💬 **Ask me about:** RCA, SQL Internals, and MTTR Optimization.
+- 🎓 **Education:** MCA Candidate (Chandigarh University) | B.Sc. Computer Science.
 
 ---
 
@@ -89,5 +92,5 @@ I am a **Site Reliability practitioner with 2+ years of experience** managing hi
 
 ---
 <p align="center">
-  <i>"Optimizing performance, ensuring reliability, and automating the cloud."</i>
+  <i>"Optimizing performance, ensuring reliability, and supporting the cloud ecosystem."</i>
 </p>
