@@ -1,40 +1,44 @@
 # 👋 Hi, I'm Harshit Sharma
-### 🚀 Site Reliability Engineer | Database Reliability | Performance Specialist
+### 🚀 Site Reliability Engineer | Database Reliability | Infrastructure Architect
 
-I am a **Site Reliability practitioner with 2+ years of experience** managing high-availability cloud platforms. I specialize in full-stack troubleshooting, from **Linux internals** and **PostgreSQL performance** to **REST API debugging**.
+I am a **Site Reliability practitioner with 2+ years of experience** managing high-availability cloud platforms. I specialize in full-stack troubleshooting, from **Linux internals** and **PostgreSQL performance** to **Cloud Infrastructure Automation**.
 
 ---
 
 ### 🧠 Core Technical Expertise
 
-#### 🐧 Server & Linux Administration
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
-![System Monitoring](https://img.shields.io/badge/System-Monitoring-brightgreen?style=for-the-badge) 
-![Troubleshooting](https://img.shields.io/badge/Production-Troubleshooting-red?style=for-the-badge) 
-![Optimization](https://img.shields.io/badge/Performance-Optimization-blueviolet?style=for-the-badge)
-- Linux Administration • System Monitoring • Production Troubleshooting • Performance Optimisation.
+#### 🐧 Systems & Infrastructure
+![RHEL](https://img.shields.io/badge/RHEL-%23CC0000.svg?style=for-the-badge&logo=red-hat&logoColor=white) 
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E94333?style=for-the-badge&logo=ubuntu&logoColor=white) 
+![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+- Linux Systems Administration (RHEL/Ubuntu) • Shell & Python Scripting • Performance Tuning • Production Troubleshooting.
 
 #### 🗄️ Databases & Data Analysis
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) 
 ![SQL Optimization](https://img.shields.io/badge/SQL-Optimization-blue?style=for-the-badge) 
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
-- PostgreSQL • MySQL • SQL Query Optimisation • Performance Analysis • Data Analysis for Report Generation.
+- PostgreSQL • SQL Query Optimisation • Performance Analysis • Data Analysis for Report Generation.
 
-#### 🌐 APIs & Cloud Support
-![REST API](https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge&logo=fastapi) 
-![Cloud Support](https://img.shields.io/badge/Cloud-App_Support-brightgreen?style=for-the-badge) 
-![API Debugging](https://img.shields.io/badge/API-Debugging-orange?style=for-the-badge) 
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-- Cloud Application Support • REST APIs • GitHub • API Debugging.
+#### ☁️ Cloud & APIs
+![AWS](https://img.shields.io/badge/AWS-%23232F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
+![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) 
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white) 
+![Jenkins](https://img.shields.io/badge/jenkins-%23D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white)
+- AWS (EC2, S3, IAM, Networking) • Infrastructure as Code (Terraform) • CI/CD (GitHub Actions, Jenkins) • REST APIs • Git.
+
+#### 🐳 Containerization & Orchestration
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+- Docker Swarm/Compose • Kubernetes Cluster Management • Application Containerization.
 
 #### 🛠️ Tools & Monitoring
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=Wireshark&logoColor=white) 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white) 
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white) 
-![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=Salesforce&logoColor=white) 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-- Wireshark • Postman • Tableau • Monitoring/Logging Tools • Ticketing Systems (Jira, Salesforce) • VCS (GIT).
+![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=Salesforce&logoColor=white)
+- Log analysis and system monitoring • Wireshark • Postman • Jira • Salesforce • Monitoring/Logging Tools.
 
 ---
 
@@ -42,7 +46,7 @@ I am a **Site Reliability practitioner with 2+ years of experience** managing hi
 
 #### 🛡️ [Sentinel Admin Panel](https://github.com/warrier2002/admin_page)
 *A secure dashboard focused on infrastructure oversight and role-based access.*
-- **Impact:** Implemented `@RBAC` and `@JWT` for secure data management.
+- **SRE Focus:** High-availability application logic and secure API integration.
 
 #### 🗄️ [Database Reliability Engineering](https://github.com/warrier2002/warrier)
 *Focused on SQL query optimization and performance analysis.*
@@ -59,9 +63,9 @@ I am a **Site Reliability practitioner with 2+ years of experience** managing hi
 
 ---
 
-### 🚀 Quick Highlights
-- **SRE @ PrepLadder:** Driving performance diagnostics and maintaining SLOs for high-availability systems.
-- **Proven Impact:** Reduced MTTR by **40%** at Exotel through automated workflows.
+### 🚀 Professional Highlights
+- **SRE @ PrepLadder:** Maintaining SLOs for high-availability systems with a focus on `@PerformanceEngineering`.
+- **Ex-Exotel:** Reduced MTTR by **40%** through automation and deep diagnostics.
 - **Education:** MCA Candidate (Chandigarh University) | B.Sc. Computer Science.
 
 ---
@@ -73,5 +77,5 @@ I am a **Site Reliability practitioner with 2+ years of experience** managing hi
 
 ---
 <p align="center">
-  <i>"Reliability is a feature, and performance is a priority."</i>
+  <i>"Optimizing performance, ensuring reliability, and automating the cloud."</i>
 </p>
