@@ -55,11 +55,6 @@ I architect reliability across the full technological lifecycle. Whether it’s 
 *Secure administrative gateway for high-stakes infrastructure management.*
 * **Outcome:** Integrated tight RBAC/JWT protocols to secure sensitive production administrative layers.
 
-#### 🧠 [ANN Predictive Churn Pipeline](https://github.com/warrier2002/ANN-classification-project)
-
-*AI-driven behavior prediction for system and customer reliability.*
-* **Outcome:** Engineered a scalable prediction pipeline to identify reliability risks before they impact service quality.
-
 ---
 
 ### 🌐 Let's Build Something Better
