@@ -54,11 +54,23 @@ I am a **Site Reliability practitioner with 2+ years of experience** managing hi
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Ecosystem & Contributions
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=warrier2002&theme=radical&no-bg=true&no-frame=true" alt="Harshit's Trophies" />
+</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=warrier2002&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Harshit's GitHub Stats" height="180px"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=warrier2002&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="180px"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=warrier2002&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=warrier2002&theme=radical&hide_border=true&area=true" alt="Activity Graph" />
 </p>
 
 ---
