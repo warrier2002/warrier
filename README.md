@@ -1,96 +1,75 @@
-# 👋 Hi, I'm Harshit Sharma
-### 🚀 SRE | DevOps | Database & Product Support Engineer
+# 👋 I'm Harshit Sharma
+## **Architecting Reliability | Automating Chaos | Optimizing Data**
+### **SRE & Product Support Engineer focused on Enterprise Scale**
 
-I am a **Multi-Disciplinary Engineer with 2+ years of experience** bridging the gap between high-availability infrastructure and enterprise-grade product support. I specialize in troubleshooting across the **full technology stack**—from complex **REST API integrations** to **database internals** and **cloud automation**.
+I don't just "support" systems—I **harden** them. With 2+ years of experience in the cloud ecosystem, I bridge the gap between complex code and production stability. 
 
----
-
-### 💼 Professional Experience
-
-#### 🚀 **SRE / Operation Support Engineer** | PrepLadder
-*Oct 2025 — Present*
-- **Database Reliability:** Optimized PostgreSQL queries for real-time dashboards, significantly enhancing performance metrics.
-- **Incident Response:** Managing end-to-end incident triage for high-availability dialer systems, maintaining strict **SLOs**.
-- **Performance Engineering:** Diagnosing complex network and database bottlenecks in production environments.
-
-#### ⚙️ **Product Support Engineer** | Exotel
-*Mar 2024 — Oct 2025*
-- **Operational Efficiency:** Drove a **40% reduction in MTTR** through automated runbooks and optimized triage workflows.
-- **Technical Triage:** Troubleshot complex issues across **REST APIs**, SIP protocols, and cloud communication infrastructure.
-- **Advanced Diagnostics:** Performed deep-dive network analysis using **Wireshark** to resolve latency and packet loss for enterprise clients.
+> **Key Accomplishment:** Led initiatives that slashed Mean Time to Recovery (**MTTR**) by **40%** at Exotel through aggressive automation and diagnostic engineering.
 
 ---
 
-### 🧠 Core Technical Expertise
+### 🛠️ The Technical Stack (Command Centers)
 
-#### 🐧 Systems & Infrastructure
-![RHEL](https://img.shields.io/badge/RHEL-%23CC0000.svg?style=for-the-badge&logo=red-hat&logoColor=white) 
-![Rocky Linux](https://img.shields.io/badge/Rocky_Linux-10B981?style=for-the-badge&logo=rockylinux&logoColor=white) 
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E94333?style=for-the-badge&logo=ubuntu&logoColor=white) 
-![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-- Linux Systems Administration (RHEL/Rocky/Ubuntu) • Shell & Python Scripting • Performance Tuning • Production Troubleshooting.
-
-#### 🗄️ Database & Support Engineering
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) 
-![API Debugging](https://img.shields.io/badge/API-Debugging-orange?style=for-the-badge) 
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
-- Database Support Engineering • SQL Optimization • Performance Analysis • REST API Debugging • Cloud Application Support.
-
-#### ☁️ DevOps & Cloud
-![AWS](https://img.shields.io/badge/AWS-%23232F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
-![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) 
-![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) 
-![Jenkins](https://img.shields.io/badge/jenkins-%23D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white)
-- Infrastructure as Code (Terraform) • CI/CD (GitHub Actions, Jenkins) • Containerization (Docker) • Cloud Security (IAM).
-
-#### 🛠️ Tools & Observability
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=Wireshark&logoColor=white) 
-![Cockpit](https://img.shields.io/badge/Cockpit-Monitoring-blue?style=for-the-badge&logo=cockpit&logoColor=white) 
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white) 
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
-- Log Analysis • Wireshark Diagnostics • Postman API Testing • Ticketing Systems (Jira, Salesforce).
+| Domain | Expertise |
+| :--- | :--- |
+| **🐧 Systems & Linux** | **RHEL • Rocky • Ubuntu** • Performance Tuning • Kernel Diagnostics • Cockpit |
+| **🗄️ Databases** | **PostgreSQL** • TimescaleDB • SQL Optimization • PL/pgSQL • Execution Plans |
+| **☁️ Cloud & DevOps** | **AWS (EC2/S3/IAM)** • **Terraform** • Jenkins • GitHub Actions • CI/CD Mastery |
+| **🐳 Containerization** | **Kubernetes** • Docker Swarm • Microservices Orchestration |
+| **🔍 Observability** | **Wireshark** • Log Analysis • Prometheus • Grafana • API Debugging |
 
 ---
 
-### 📦 Featured Projects
+### 💼 Professional Evolution (Proven Results)
+
+#### 🚀 **SRE / Operation Support Engineer** | [PrepLadder](https://www.prepladder.com)
+* चंडीगढ़, India (Oct 2025 — Present)*
+- **Data Reliability:** Overhauled PostgreSQL queries for high-throughput dashboards, reducing data latency by optimizing execution plans.
+- **Incident Governance:** Owner of end-to-end incident triage for critical communications infrastructure, consistently meeting **99.9% SLOs**.
+- **System Hardening:** Leveraging **IaC (Terraform)** to ensure diagnostic consistency across production environments.
+
+#### ⚙️ **Product Support Engineer** | [Exotel](https://exotel.com)
+* Gurugram, India (Mar 2024 — Oct 2025)*
+- **Automation First:** Developed automated runbooks that reduced **MTTR by 40%**, transforming how the team responded to high-priority outages.
+- **Stack-Deep Troubleshooting:** Resolved complex **SIP/VOIP** and **REST API** failures for enterprise-tier customers.
+- **Network Forensic:** Utilized **Wireshark** for deep-packet analysis to pinpoint packet loss and latency in multi-cloud environments.
+
+---
+
+### 📦 Reliability Projects
 
 #### 🛡️ [Sentinel Admin Panel](https://github.com/warrier2002/admin_page)
-*A secure dashboard for infrastructure oversight and role-based access.*
-- **Focus:** High-availability application logic and secure API integration.
+*A secure, high-performance gateway for administrative infrastructure.*
+- **The Win:** Implemented rigid RBAC/JWT protocols to secure sensitive production interfaces.
+- **Reliability Factor:** Optimized for sub-second response times using Vite-based build pipelines.
 
-#### 🗄️ [Database Reliability Engineering](https://github.com/warrier2002/warrier)
-*Focused on SQL query optimization and performance analysis.*
-- **Focus:** Leveraging `@ExecutionPlans` and `@PostgreSQL` internals to drive system speed.
-
----
-
-### 📊 GitHub Ecosystem
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=warrier2002&theme=radical&no-bg=true&no-frame=true" alt="Harshit's Trophies" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=warrier2002&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Harshit's GitHub Stats" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=warrier2002&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="180px"/>
-</p>
+#### 🧠 [ANN Predictive Churn Pipeline](https://github.com/warrier2002/ANN-classification-project)
+*Utilizing Machine Learning to predict and prevent system churn.*
+- **The Win:** Built a scalable pipeline that identifies high-risk behavior patterns before they impact the business.
 
 ---
 
-### 🚀 Quick Stats
-- 🔭 **Current Goal:** Mastering GitOps and Service Mesh architectures.
-- 💬 **Ask me about:** RCA, SQL Internals, and MTTR Optimization.
-- 🎓 **Education:** MCA Candidate (Chandigarh University) | B.Sc. Computer Science.
-
----
-
-### 🌐 Connect With Me
+### 🌐 Let's Build Something Reliable
+- 🔭 **Focus:** Currently building a GitOps-driven observability mesh.
+- 🎓 **Education:** Pursuing **MCA** (Chandigarh University) | **B.Sc. CS** (HPU).
+- 💬 **Expertise:** Ask me about **Root Cause Analysis (RCA)**, **SQL Performance**, or **Linux Tuning**.
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/harshit-sharma-12-/) 
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:harshitkumr9@gmail.com)
 
 ---
+
+### 📈 GitHub Proof of Work
+
 <p align="center">
-  <i>"Optimizing performance, ensuring reliability, and supporting the cloud ecosystem."</i>
+  <img src="https://github-profile-trophy.vercel.app/?username=warrier2002&theme=radical&no-bg=true&no-frame=true" alt="Trophies" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=warrier2002&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Stats" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=warrier2002&layout=compact&theme=radical&hide_border=true" alt="Langs" height="180px"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=warrier2002&theme=radical&hide_border=true" alt="Streak" />
 </p>
