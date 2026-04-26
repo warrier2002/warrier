@@ -9,10 +9,10 @@ I am a **Site Reliability practitioner with 2+ years of experience** managing hi
 
 #### 🐧 Systems & Infrastructure
 ![RHEL](https://img.shields.io/badge/RHEL-%23CC0000.svg?style=for-the-badge&logo=red-hat&logoColor=white) 
+![Rocky Linux](https://img.shields.io/badge/Rocky_Linux-10B981?style=for-the-badge&logo=rockylinux&logoColor=white) 
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E94333?style=for-the-badge&logo=ubuntu&logoColor=white) 
-![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-- Linux Systems Administration (RHEL/Ubuntu) • Shell & Python Scripting • Performance Tuning • Production Troubleshooting.
+![Cockpit](https://img.shields.io/badge/Cockpit-Project-blue?style=for-the-badge)
+- Linux Systems Administration (RHEL/Rocky/Ubuntu) • Cockpit Service Management • Shell & Python Scripting • Performance Tuning • Production Troubleshooting.
 
 #### 🗄️ Databases & Data Analysis
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) 
