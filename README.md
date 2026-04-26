@@ -11,8 +11,8 @@ I am a **Site Reliability practitioner with 2+ years of experience** managing hi
 ![RHEL](https://img.shields.io/badge/RHEL-%23CC0000.svg?style=for-the-badge&logo=red-hat&logoColor=white) 
 ![Rocky Linux](https://img.shields.io/badge/Rocky_Linux-10B981?style=for-the-badge&logo=rockylinux&logoColor=white) 
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E94333?style=for-the-badge&logo=ubuntu&logoColor=white) 
-![Cockpit](https://img.shields.io/badge/Cockpit-Project-blue?style=for-the-badge)
-- Linux Systems Administration (RHEL/Rocky/Ubuntu) • Cockpit Service Management • Shell & Python Scripting • Performance Tuning • Production Troubleshooting.
+![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+- Linux Systems Administration (RHEL/Rocky/Ubuntu) • Shell & Python Scripting • Performance Tuning • Production Troubleshooting.
 
 #### 🗄️ Databases & Data Analysis
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) 
@@ -35,10 +35,10 @@ I am a **Site Reliability practitioner with 2+ years of experience** managing hi
 
 #### 🛠️ Tools & Monitoring
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=Wireshark&logoColor=white) 
+![Cockpit](https://img.shields.io/badge/Cockpit-Monitoring-blue?style=for-the-badge&logo=cockpit&logoColor=white) 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white) 
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white) 
-![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=Salesforce&logoColor=white)
-- Log analysis and system monitoring • Wireshark • Postman • Jira • Salesforce • Monitoring/Logging Tools.
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
+- Cockpit Monitoring • Wireshark • Log analysis and system monitoring • Postman • Jira • Salesforce • Monitoring/Logging Tools.
 
 ---
 
