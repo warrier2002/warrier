@@ -64,7 +64,7 @@ I architect reliability across the full technological lifecycle. Whether it’s 
 
 ### 🌐 Let's Build Something Better
 
-- 🔭 **Current Goal:** Mastering GitOps Workflows and Istio Service Mesh.
+- 🔭 **Current Goal:** Mastering DevOps Workflows and AI/ML.
 * 🎓 **Education:** MCA Candidate (Chandigarh University) | B.Sc. Computer Science.
 * 💬 **Ask me about:** **MTTR Speed**, **SQL Performance**, or **Full-Stack Root Cause Analysis**.
 
