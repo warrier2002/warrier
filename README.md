@@ -20,7 +20,7 @@ I architect reliability across the full technological lifecycle. Whether it’s 
 | :--- | :--- |
 | **🌍 Cloud & DevOps** | **AWS (EC2/S3/IAM)** • **Terraform** • Jenkins • GitHub Actions • GitOps |
 | **🛡️ SRE & Observability** | **Prometheus • Grafana** • Cockpit • Wireshark • Incident Response • SLO Triage |
-| **🗄️ Database Reliability** | **PostgreSQL** • TimescaleDB • SQL Query Optimization • Execution Plans |
+| **🗄️ Database Reliability** | **PostgreSQL** • CTE & Complex Queries • SQL Query Optimization • Execution Plans |
 | **🐳 Orchestration** | **Kubernetes • Docker** • Microservices Stability • Containerized Deployment |
 | **🐧 Linux Administration** | **RHEL • Rocky • Ubuntu** • Performance Tuning • Production Troubleshooting |
 
