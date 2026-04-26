@@ -32,7 +32,7 @@ I architect reliability across the full technological lifecycle. Whether it’s 
 
 #### 🚀 **SRE / Operation Support Engineer** | [PrepLadder](https://www.prepladder.com)
 
-* Chandigarh, India (Oct 2025 — Present)*
+* Chandigarh India (Oct 2025 — Present)*
 
 - **SRE Focus:** Maintaining strict **SLOs** for high-availability dialer infrastructure, ensuring minimal downtime for critical services.
 * **Database Optimization:** Reduced operational friction by overhaulng PostgreSQL queries, enhancing real-time data tracking performance.
