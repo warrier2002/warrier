@@ -21,7 +21,7 @@ SRE with **2+ years of experience** architecting reliability across the full tec
 | Expertise Layer | Core Technologies |
 | :--- | :--- |
 | **🌍 Cloud & DevOps** | **AWS** • **Terraform (IaC)** • Jenkins • GitHub Actions • **Python • Bash Scripting** |
-| **🛡️ SRE & Observability** | **Prometheus • Grafana** • **Cockpit** • **Wireshark • Postman** • Log Analysis • RCA |
+| **🛡️ SRE & Observability** | **Cockpit** • **Wireshark • Postman** • Log Analysis • RCA |
 | **🗄️ Database Reliability** | **PostgreSQL • MySQL** • SQL Query Optimization • Execution Plans • Data Analysis |
 | **🐳 Orchestration** | **Kubernetes • Docker** • Containerized Deployment |
 | **🛠️ Tools & CRM** | **Jira • Salesforce** • Tableau • GitHub • Cloud Application Support |
