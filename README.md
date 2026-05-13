@@ -1,6 +1,6 @@
 # 👋 I'm Harshit Sharma
 
-## **DevOps | SRE | Product Support Engineer**
+## **DevOps Engineer**
 
 ### **Bridging Infrastructure Automation, System Reliability, and Enterprise Support**
 
